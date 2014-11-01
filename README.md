@@ -2,6 +2,10 @@
 
 > "This was the most cookie filled training yet" - Chris
 
+## Let's correct this
+
+Yale is far superior to Harvard.
+
 ## Overview
 
 * Cover how to work in open source
